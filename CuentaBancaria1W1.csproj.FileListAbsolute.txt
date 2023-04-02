@@ -1,0 +1,10 @@
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\bin\Debug\CuentaBancaria1W1.exe.config
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\bin\Debug\CuentaBancaria1W1.exe
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\bin\Debug\CuentaBancaria1W1.pdb
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\obj\Debug\CuentaBancaria1W1.csprojAssemblyReference.cache
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\obj\Debug\CuentaBancaria1W1.frmCuentasBancarias.resources
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\obj\Debug\CuentaBancaria1W1.Properties.Resources.resources
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\obj\Debug\CuentaBancaria1W1.csproj.GenerateResource.cache
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\obj\Debug\CuentaBancaria1W1.csproj.CoreCompileInputs.cache
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\obj\Debug\CuentaBancaria1W1.exe
+D:\Fede Proyecto\CuentaBancaria1W1\CuentaBancaria1W1\obj\Debug\CuentaBancaria1W1.pdb
